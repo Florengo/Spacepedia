@@ -1,5 +1,9 @@
 .App {
   text-align: center;
+  background-image: url("https://images.pond5.com/twinkling-star-field-4k-loopable-089300114_prevstill.jpeg");
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
 }
 
 .App-logo {
@@ -36,3 +40,12 @@
     transform: rotate(360deg);
   }
 }
+
+* {
+        margin: 0;
+        padding: 0;
+        border: 0;
+        outline: 0;
+        vertical-align: baseline;
+        background: transparent;
+    }
