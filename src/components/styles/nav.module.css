@@ -1,0 +1,10 @@
+.nav {
+    color: white;
+    height: 100px;
+}
+
+.navBackground {
+    background: black;
+    opacity: 30%;
+    height: 100px;
+}
